@@ -1,4 +1,4 @@
-import Main from "../_layout/main";
+import Main from "@/app/_layout/main";
 
 export default function Layout({
   children,
